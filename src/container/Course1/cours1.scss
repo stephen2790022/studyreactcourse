@@ -1,0 +1,24 @@
+.main {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.course1 {
+    height: auto;
+    width: 90%;
+    margin-top: 50px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #ffffff;
+    -webkit-box-shadow: 5px 5px 9px #b8b8b8, -5px -5px 9px #ffffff;
+    box-shadow: 5px 5px 9px #b8b8b8, -5px -5px 9px #ffffff;
+}
